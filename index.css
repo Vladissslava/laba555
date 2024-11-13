@@ -1,0 +1,101 @@
+body {
+    background-color: #110014;
+}
+.block1 {
+    padding: 20px;
+    margin: 20px;
+    position: relative;
+
+}
+a {
+  
+    text-decoration: none; 
+}
+.me {
+    width: 1500px;
+    height: 750px;
+}
+.headerr {
+    position: absolute;
+    list-style-type: none;
+    
+}
+header {
+    margin: 0 30px;
+    font-family: Unbounded, light, Sans-Serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 250;
+}
+.me {
+    margin-top: -30px;
+}
+.container {
+    margin-left: 400px;
+   }
+p {
+    position: absolute;
+    margin-top: -450px;
+    margin-left: 200px;
+    font-size: 40px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    background: linear-gradient(180deg, #e0e0e0, #8F00FF);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+.opisanie {
+    position: absolute;
+    margin-top: -330px;
+    color: white;
+    margin-left: 200px;
+    font-size: 30px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 250;
+}
+.name {
+    transition: transform 0.3s, background 0.3s;
+}
+.name:hover {
+    transform: scale(1.05);
+    background: #e0e0e0;
+}
+.card {
+    font-size: 55px;
+    font-family: Unbounded, light, Sans-Serif;
+    font-weight: 550;
+    border: 5px solid white;
+    background-color: white !important;
+    margin: 20px auto;
+    color: #110014;
+    text-align: center;
+    padding: 50px;
+    margin-left: 340px;
+    border-radius: 45px;
+    background: transparent;
+    margin-top: -405px;
+}
+button{
+background-color: rgb(175, 51, 175);
+padding: 20px;
+border-radius: 15px;
+position: absolute;
+margin-top: -230px;
+right: 1035px;
+transition: transform 0.3s, background 0.3s;
+}
+button:hover {
+    transform: scale(1.05);
+    background: #8e1244;
+}
+.knopka{
+font-size: 20px;
+color: white;
+font-family: Unbounded, light, Sans-Serif;
+font-weight: 250;
+
+
+}
+.rovno {
+    
+}
